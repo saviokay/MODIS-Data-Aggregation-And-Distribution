@@ -1,4 +1,4 @@
-# MODIS-Data-Aggregation-Distribution-FEMAD-
+# MODIS-Data-Aggregation-Distribution-FEMAD
 
 [![Binder](https://binder.pangeo.io/badge.svg)](https://binder.pangeo.io/v2/gh/saviokay/MODIS-Data-Aggregation-And-Distribution/master)
 
